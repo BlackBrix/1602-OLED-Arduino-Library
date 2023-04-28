@@ -3,7 +3,7 @@
 
 wide.HK 1602 OLED Library
 
-This Library is intended for the Wide.HK OLED 1602 display.
+This Library is intended for the Wide.HK OLED 1602 display with the Controller US2066.
 
 KEYWORDS
 
